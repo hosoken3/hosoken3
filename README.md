@@ -11,8 +11,8 @@ Kaizen: 昨日の自分よりちょっとだけマシになるために、運動
 
 📝 Note (hosoken)
 
-主な言語
-HTML,CSS,Python
+主な言語 : 
+HTML,CSS,Python,Linux
 
 一応大学で学んだけど、無理な言語
 C,C++
